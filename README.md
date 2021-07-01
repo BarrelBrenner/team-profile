@@ -8,7 +8,7 @@ Once that's finished you can begin running the application which is titled the f
 
 This application will prompt you to answer queries that will then generate information about various members on a software engineering team which can be displayed as a HTML webpage which can be found in output folder titled team.html. There is also a test folder you can initiated by typing the command -- npm test --, it will run a test sequence of team-profile generator to catch any errors it may come across.
 
-Link for walk-through video can be found here
+Link for walk-through video can be found here -- https://drive.google.com/file/d/1q0LO8mbC_ekbDyMGL-GTK8gfpdhrx0dP/view
 
 Thank your for your time & take care.
 
